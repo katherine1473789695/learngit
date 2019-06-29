@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I love vim!
 Creating a new branch is quick and simple.
+This is a new change to test the branch.
